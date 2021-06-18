@@ -1,4 +1,4 @@
-# SERS-TEAM-OpenMV-2021
+# SERS TEAM OpenMV
 
 Code for recognizing U, S, and H letters and detecting red, green, and yellow
 
