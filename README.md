@@ -18,4 +18,4 @@ There's a matrix that consists of 3 blocks of pixels on the x axis and 3 on the 
 
 # Pinout diagram
 
-[![Pinout diagram](https://zasgasfgasd.com)
+![Pinout diagram](https://github.com/s3r5-robotics/S3R5-TEAM-OpenMV-2021/blob/main/unknown.png)
